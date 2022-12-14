@@ -1,0 +1,34 @@
+tod hecho con funciones.
+la unica variable global es el array. puede estar en el cod. o en otro archivo.
+
+generar array de productos.
+-15 productos:
+
+-id
+-producto
+-precio
+-fecha_vencimiento
+-descripcion
+-categoria
+-oferta (boolean)
+
+--------------
+
+utilizar metodo array que verifique si oferta es true. (ej. 15% desc.)
+
+--------------
+
+utilizar un metodo de array que ordene a los elementos de manera alfabetica.(a - z o z -a)
+utilizar la copia segura [...array] - 
+
+--------------
+
+filtrar a travez de un prompt si quiere ver las ofertas de la tienda.
+confirm("quiere ver las ofertas de la tienda") true o false.
+en caso de que si, que filtre el array (filter) y muestre en consola cada una de las ofertas.
+--------------
+a traves de un prompt, permita al usuario buscar productos.buscar con .find dicho producto y mostrarlo en un alert()
+
+
+
+
